@@ -1,6 +1,6 @@
-# Encryptix
+# ML Models Pipelines
 
-Welcome to the **Encryptix** internship repository. This repository contains three data science projects completed as part of the internship tasks. Each project focuses on building and evaluating machine learning models for different real-world datasets. Below is a brief overview of each task.
+This repository contains three data science projects completed as part of the tasks. Each project focuses on building and evaluating machine learning models for different real-world datasets. Below is a brief overview of each task.
 
 ## Table of Contents
 
@@ -75,5 +75,5 @@ pip install -r requirements.txt
 
 ## Acknowledgments
 
-This repository was created as part of an internship to demonstrate practical knowledge and skills in data science. Datasets used in these projects are publicly available and widely recognized in the data science community.
+This repository was created to demonstrate practical knowledge and skills in data science. Datasets used in these projects are publicly available and widely recognized in the data science community.
 
